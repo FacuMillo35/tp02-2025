@@ -1,1 +1,1 @@
-este es un archivo que se modificara en varias ramas
+Cambio desde la rama conflicto1
